@@ -6,6 +6,7 @@
 
 [Final Report Doc](https://docs.google.com/document/d/15Vd-qjIWVDcdcSlcrqpl7ySwuCkPnaQmRQ6NeY7QsIo/edit?usp=sharing)
 
+[Final Poster](https://docs.google.com/presentation/d/1Cjzfr2UZous3SCZlFkNierLARqgDUFww/edit?usp=sharing&ouid=103644627269076033043&rtpof=true&sd=true)
 
 [Flight Data Download](https://drive.google.com/file/d/1unKSoIJgbP_eP5aFWGliKF7o-vr6YiY3/view?usp=share_link)
 
